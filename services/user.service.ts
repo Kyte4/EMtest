@@ -1,4 +1,3 @@
-// ...existing code...
 import { Repository } from "typeorm";
 import { hashPassword } from "../utils/hash";
 import { AppDataSource } from "../src/config/data-source";
